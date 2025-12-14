@@ -1,4 +1,4 @@
-![logic gates 2](https://github.com/user-attachments/assets/5d08aa3e-2f5f-4012-97f2-8f510d805fc9)### study-of-basic-gates
+
 
 **AIM:** 
 
