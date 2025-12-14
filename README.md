@@ -1,4 +1,4 @@
-### study-of-basic-gates
+![logic gates 2](https://github.com/user-attachments/assets/5d08aa3e-2f5f-4012-97f2-8f510d805fc9)### study-of-basic-gates
 
 **AIM:** 
 
@@ -71,9 +71,15 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
+![logic gates 2](https://github.com/user-attachments/assets/18c23a61-f6d0-4b60-9c74-0b1d448509c5)
+
 
 **RTL**
+![logic gates](https://github.com/user-attachments/assets/287dcef6-9f6f-43ae-989c-e541a78091d4)
+
 
 **Result:**
+The log gates result were verified
+
 
 
